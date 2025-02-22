@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    background-color: #0a0606;
+}
+main h1{
+    font-family: "Roboto", serif;
+    font-weight: 550;
+    font-size: 3.5em;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 50%;
+}
+#bt-login{
+    text-indent: 0 !important;
+    background: #66e338 !important;
+    color: #100203;
+}
+#dont{
+    width: 50%;
+    float: left;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 70%;
+}
+#dont a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bolder;
+}
+.bt-login{
+    width: 300px;
+    height: 50px;
+    float: center;
+    margin-left: 15%;
+    border-radius: 50px;
+    margin-top: 3%;
+    box-shadow: 2px 2px 4px #e3dcdc;
+    background: #66e338 
+}
